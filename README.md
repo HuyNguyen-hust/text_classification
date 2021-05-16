@@ -1,6 +1,6 @@
 # text_classification
 
-Text classifying by articles using mutiple methods: kNN, Naive Bayes and Linear SVM.
+Text classification using mutiple methods: kNN, Naive Bayes and Linear SVM.
 
 # dataset
 Data used for this project was downloaded from [VNTC dataset](https://github.com/duyvuleo/VNTC)
