@@ -5,7 +5,7 @@ from collections import defaultdict
 import re
 
 path = 'dataset\\'
-processed_path = path + 'processed\\'
+processed_path = 'processed\\'
 
 def gather_dataset(path):
     assert os.path.exists(path)
